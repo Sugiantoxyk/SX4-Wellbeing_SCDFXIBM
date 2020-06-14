@@ -15,6 +15,7 @@ Our solution focus on decreasing and preventing heat injury incidents. We came u
 <a href="https://www.youtube.com/watch?v=-OnpFI7G4Ak&feature=youtu.be" target="_blank"><img src="https://lh3.googleusercontent.com/proxy/41fVbpwuov0rvZXeAv3FKqVRqYXdDql-ZrtGt7m4a6srQXOJz6-i9qNUGfOcIEtPqdTEsw8j6IIvHe96l1xyAEjzMhL8K2KjiIobmsVyhFAmL14u-PObfSWbLaxn1eU9C-rqXVZ8slqeEmYZlMc0uG9WuUZP-px9T133n_68J1ypsxEbJImFrgwzT72EwPyHuILfv70OK16RasPR" width="240" height="180" border="10" /></a>
 
 ## The Architecture
+Please refer to the Architecture.png under this repository for our architecture.
 
 ## Long Description
 Our solution to the problem Climate Change can help SCDF training to be better than ever. Our idea consists of having a device worn by the first responders to send data such as body temperature and heart rate to a database, while analysing the data and present them neatly into a dashboard.
