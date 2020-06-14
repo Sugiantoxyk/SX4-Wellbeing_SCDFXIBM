@@ -5,7 +5,7 @@
 We will be tackling on the problem on Climate Change. There's a phenomenon called the Urban Heat Island Effect that results in tougher training and higher risk of heat related injury, namely heat exhaustion and heat stroke.
 
 ### The idea
-Our solution focus on decreasing and preventing heat injury incidents. We came up with the idea of variables that can detect factors leading to heat injury, such as body temperature and heart rate.
+Our solution focus on decreasing and preventing heat injury incidents. We came up with the idea of wearables that can detect factors leading to heat injury, such as body temperature and heart rate.
 
 1. Device that can track body temperature, heart rate and activity tracker.
 2. Possibility of sending data to a database for analysis of data.
